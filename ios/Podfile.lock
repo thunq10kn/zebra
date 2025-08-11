@@ -1,0 +1,59 @@
+PODS:
+  - another_brother (0.0.1):
+    - BRLMPrinterKit_AB
+    - BROTHERSDK
+    - Flutter
+  - audioplayers_darwin (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - BRLMPrinterKit_AB (4.6.4.4)
+  - BROTHERSDK (0.2.1)
+  - Flutter (1.0.0)
+  - flutter_blue_plus (0.0.1):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.0.4):
+    - Flutter
+
+DEPENDENCIES:
+  - another_brother (from `.symlinks/plugins/another_brother/ios`)
+  - audioplayers_darwin (from `.symlinks/plugins/audioplayers_darwin/darwin`)
+  - Flutter (from `Flutter`)
+  - flutter_blue_plus (from `.symlinks/plugins/flutter_blue_plus/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+
+SPEC REPOS:
+  trunk:
+    - BRLMPrinterKit_AB
+    - BROTHERSDK
+
+EXTERNAL SOURCES:
+  another_brother:
+    :path: ".symlinks/plugins/another_brother/ios"
+  audioplayers_darwin:
+    :path: ".symlinks/plugins/audioplayers_darwin/darwin"
+  Flutter:
+    :path: Flutter
+  flutter_blue_plus:
+    :path: ".symlinks/plugins/flutter_blue_plus/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+
+SPEC CHECKSUMS:
+  another_brother: 67ebdad7e2a8ca969da077b9df4addf97df7bfb6
+  audioplayers_darwin: 4f9ca89d92d3d21cec7ec580e78ca888e5fb68bd
+  BRLMPrinterKit_AB: 0dbc9cc7e231439610a97cb6d5f2ee2796f4ee6b
+  BROTHERSDK: fd1148e2c5960155384c79e6f80593bc3567aee1
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_blue_plus: d08af8e53924ea98b17917bf61bc3045feaf8c37
+  path_provider_foundation: 080d55be775b7414fd5a5ef3ac137b97b097e564
+  permission_handler_apple: 08f8206adee3b28ea33966c224b7228eabaaf6a9
+
+PODFILE CHECKSUM: 6dda2cb3183f0e4a433a3773ee326160146be70c
+
+COCOAPODS: 1.16.2
